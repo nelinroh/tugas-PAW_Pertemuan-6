@@ -109,3 +109,7 @@ git commit -m "fix: resolve merge conflict"
 
 ## Deploy ke website pribadi
 Jalankan `npm run build`, lalu unggah isi folder `dist/` ke hosting website pribadi. Jika menggunakan GitHub Pages, atur sumber deploy sesuai panduan GitHub Pages dan pastikan konfigurasi `base` Vite sesuai alamat subfolder repository bila diperlukan.
+
+## Pengembangan Fitur
+Pengembangan fitur edit tugas dilakukan pada branch fitur-edit-tugas.
+Fitur ini merupakan bagian dari aplikasi Taskly untuk membantu pengguna memperbarui informasi tugas kuliah.
